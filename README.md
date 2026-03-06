@@ -20,4 +20,4 @@ Tableau
 - Long-term contracts significantly reduce churn risk
 
 ## Dashboard
-![Churn Dashboard](dashboard/telco_churn_dashboard.png)
+telco-churn-analysis/dashboard/teleco_churn_dashboard.png
